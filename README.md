@@ -1,3 +1,4 @@
+
 # JavaScript Zero To Hero with ApeshDev
 Welcome to the "JavaScript Zero to Hero" repositery! In this comprehensive guide, you will learn JavaScript from the very basics to becoming a master of the language. This project utilizes the "ezsnippet" teaching method to make your learning experience interactive and engaging.
 
