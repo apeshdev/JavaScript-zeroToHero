@@ -1,5 +1,5 @@
 let firstName;
-firstName = 'ezSnippet';
+firstName = 'apeshdev';
 console.log(firstName);
 
 var age = 31;
